@@ -12,5 +12,7 @@
  ولذلك يستخدم هذا التطبيق تسجيل الدخول عبر المصادقه بحساب جوجل او تسجيل ايميل وكلمه سر خاصه بك ويجب التنويه ان هذا التطبيق لايقوم بجمع اي معلومات او مشاركتها مع اطراف اخرى وانما للمصادقه فقط لحفظ قاعده البيانات واستردادها وانوه ان هذه الميزه اختياريه في حاله انك اردت حفظ قاعده البيانات على قاعده بيانات سحابيه وتستطيع ان لا تستخدم هذه الميزه فهذا راجع اليك
 ## Contact Information
 
-To request deletion of the account data you are logged in with, please send a request and include your email in the message to this email. haitham201584@gmail.com.
-لطلب حذف بيانات الحساب الذي قمت بتسجيل الدخول به يرجى ارسال طلب  مع تضمين ايميلك في الرساله الى  هذا الايميل haitham201584@gmail.com.
+To request deletion of the account data you are logged in with, please send a request and include your email in the message to this email. 
+
+
+لطلب حذف بيانات الحساب الذي قمت بتسجيل الدخول به يرجى ارسال طلب  مع تضمين ايميلك في الرساله الى  هذا الايميل     haitham201584@gmail.com.
